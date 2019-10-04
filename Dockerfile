@@ -1,4 +1,4 @@
-FROM dolmades/base_i386:1.1
+FROM dolmades/base_i386:1.2
 
 MAINTAINER Stefan Kombrink
 
